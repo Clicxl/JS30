@@ -1,5 +1,6 @@
 <link rel="stylesheet" href="README.css">
 
+
 <div class="banner"></div>
 
 <h1>JS Coding Challenge</h1>
@@ -7,9 +8,9 @@
 <div class="intro">
 
 <div class="intro-icons">
-<img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" class="icons" "></img>
-<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png " class="icons" "></img>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png " class="icons" "></img>
+<img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" class="icons" >
+<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" class="icons">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" class="icons">
 </div>
 
 <span>This is a coding challenge to build 30 basic web utilties, games and other fun projects.</span>
