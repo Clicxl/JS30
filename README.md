@@ -18,10 +18,11 @@
   <span style="font-size: 1.1rem;">The main goal of the challenge is to learn and master the basics of html css and js.</span>
 </div>
 <br>
+<div class="streak" style="font-size: 2rem; text-align: center; font-weight: 600;"> Streak 🔥: 04</div>
+<br>
 <div>
   <span>About The Challenge</span>
-  <p>The Challenge is created by Wes Bosa a Full Stack Developer, Speaker and Teacher from Canada.</p>
-  <p>This is a challenge for beginner to intermediate developers and designers who want to become <br> comfortable with both JavaScript fundamentals and working in the DOM without a library. </p>
+  <p>The Challenge is created by Wes Bosa a Full Stack Developer, Speaker and Teacher from Canada. <br>This is a challenge for beginner to intermediate developers and designers who want to become <br> comfortable with both JavaScript fundamentals and working in the DOM without a library. </p>
   <br>
   <span>Accept The Challenge and practice your skill here</span>
   <br>
