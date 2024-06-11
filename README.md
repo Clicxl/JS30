@@ -18,7 +18,7 @@
   <span style="font-size: 1.1rem;">The main goal of the challenge is to learn and master the basics of html css and js.</span>
 </div>
 <br>
-<div class="streak" style="font-size: 2rem; text-align: center; font-weight: 600;"> Streak 🔥: 04</div>
+<div class="streak" style="font-size: 2rem; text-align: center; font-weight: 600;"> Streak 🔥: 05</div>
 <br>
 <div>
   <span>About The Challenge</span>
